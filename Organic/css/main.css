@@ -38,7 +38,7 @@ span {
 }
 
 .section-main {
-    background-image: url(/img/background\ 1\ screen\ mob.png);
+    background-image: url(img/background\ 1\ screen\ mob.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -281,7 +281,7 @@ span {
     background-color: #d26a22;
     border: none;
     border-radius: 100%;
-    background-image: url(https://icon-library.com/images/cart-icon-16.png);
+    background-image: url("https://icon-library.com/images/cart-icon-16.png");
     background-size: 1rem 0.87rem;
     background-repeat: no-repeat;
     background-position: center center;
@@ -324,7 +324,7 @@ span {
 }
 
 .section-stock {
-    background-image: url(/img/background\ 2\ screen\ mob.png);
+    background-image: url(img/background\ 2\ screen\ mob.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
